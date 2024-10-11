@@ -1,0 +1,5 @@
+com\btg\controllers\FondoController.class
+com\btg\Application.class
+com\btg\models\Fondo.class
+com\btg\services\FondoService.class
+com\btg\repositories\FondoRepository.class
